@@ -1,3 +1,5 @@
+*/ Exploring Covid-19 Dataset */
+
 select *
 from PortfolioProject.dbo.CovidDeaths
 where continent is not null
